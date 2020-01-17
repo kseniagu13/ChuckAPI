@@ -1,0 +1,17 @@
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/bin/Debug/netcoreapp3.0/ChuckAPI
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/bin/Debug/netcoreapp3.0/ChuckAPI.deps.json
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/bin/Debug/netcoreapp3.0/ChuckAPI.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/bin/Debug/netcoreapp3.0/ChuckAPI.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/bin/Debug/netcoreapp3.0/ChuckAPI.dll
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/bin/Debug/netcoreapp3.0/ChuckAPI.pdb
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/obj/Debug/netcoreapp3.0/ChuckAPI.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/obj/Debug/netcoreapp3.0/ChuckAPI.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/obj/Debug/netcoreapp3.0/ChuckAPI.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/obj/Debug/netcoreapp3.0/ChuckAPI.csproj.CopyComplete
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/obj/Debug/netcoreapp3.0/ChuckAPI.dll
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/obj/Debug/netcoreapp3.0/ChuckAPI.pdb
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/bin/Debug/netcoreapp3.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/bin/Debug/netcoreapp3.0/Nancy.dll

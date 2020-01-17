@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/ChuckAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/ChuckAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/ChuckAPI.csproj",
+        "projectName": "ChuckAPI",
+        "projectPath": "/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/ChuckAPI.csproj",
+        "packagesPath": "/Users/kseniagustsenko/.nuget/packages/",
+        "outputPath": "/Users/kseniagustsenko/Desktop/ChuckAPI/ChuckAPI/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kseniagustsenko/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
